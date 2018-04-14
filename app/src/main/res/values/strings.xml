@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP_Revision</string>
+    <string name="textview">TextView</string>
+    <string name="title"><![CDATA[<Title Here>]]></string>
+    <string name="before_example_method">Before example method</string>
+    <string name="error_message">Oops something went wrong!</string>
+    <string name="success_message">Hello World</string>
+    <string name="button_1_text">Example Button</string>
+</resources>
